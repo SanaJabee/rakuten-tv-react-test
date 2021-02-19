@@ -1,7 +1,7 @@
 
 ## To Run Code:
 ```
-cd rakuten-test
+cd rakuten-tv-react-test
 yarn
 yarn start
 ```
